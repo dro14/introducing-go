@@ -1,0 +1,1 @@
+You specify the direction of a channel type by using <-: <-chan int for receive-only channels or chan<- int for send-only channels.

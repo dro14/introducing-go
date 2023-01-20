@@ -1,0 +1,1 @@
+Integers are stored on a computer by using a base-2, binary number system.

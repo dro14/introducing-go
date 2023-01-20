@@ -1,0 +1,1 @@
+Packages are a good software engineering practice. They allow us to break up large programs into smaller, easier to understand, and easier to maintain programs. They also encourage software reuse.

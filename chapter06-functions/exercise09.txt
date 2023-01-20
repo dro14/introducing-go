@@ -1,0 +1,1 @@
+To create a pointer, use the new function: x := new(int); or get the address of an existing variable: x := &y.

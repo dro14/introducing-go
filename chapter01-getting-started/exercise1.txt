@@ -1,0 +1,1 @@
+Whitespace is the space between characters made up of space, tab, and newline characters.

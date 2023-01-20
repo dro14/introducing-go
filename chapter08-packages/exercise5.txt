@@ -1,0 +1,1 @@
+To document the functions created in #4, add comments before the functions. Those comments will show up as documentation for the godoc tool.

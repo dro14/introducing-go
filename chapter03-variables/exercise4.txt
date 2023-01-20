@@ -1,0 +1,1 @@
+Unlike a variable, the value of a constant is determined at compile time and cannot change throughout the lifetime of a program.

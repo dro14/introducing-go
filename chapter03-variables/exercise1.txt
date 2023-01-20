@@ -1,0 +1,1 @@
+Two ways to create a new variable are: var x int = 5 or x := 5

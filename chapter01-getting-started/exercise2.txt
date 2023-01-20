@@ -1,0 +1,1 @@
+A comment is a section of code ignored by the compiler that can be used as a note for anyone reading the code. The two types of comments are // (which goes to the end of the line) and /* */.

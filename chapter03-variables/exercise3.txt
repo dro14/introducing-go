@@ -1,0 +1,1 @@
+Scope is the range of places a variable can be used. Scope in Go is determined lexically using blocks, so look for the nearest curly braces.

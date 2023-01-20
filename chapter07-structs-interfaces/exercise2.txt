@@ -1,0 +1,1 @@
+You would use an embedded anonymous field instead of a normal named field in order to use methods directly on the containing type.

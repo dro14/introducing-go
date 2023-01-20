@@ -1,0 +1,1 @@
+The largest eight-digit number in binary is 255.

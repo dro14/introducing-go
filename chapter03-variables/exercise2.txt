@@ -1,0 +1,1 @@
+The value of x after running the code is 6.

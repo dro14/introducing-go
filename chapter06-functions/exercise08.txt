@@ -1,0 +1,1 @@
+To assign a value to a pointer, use the * operator: *x = 5.

@@ -1,0 +1,1 @@
+Identifiers that start with a capital letter are exported (meaning accessible from other packages), whereas identifiers that start with a lowercase letter are not.

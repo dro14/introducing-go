@@ -1,0 +1,3 @@
+A buffered channel allows send operations to succeed regardless of whether or
+not there is a receiver on the other end by storing the sent message in a buffer. To
+create a buffered channel, specify a buffer size as an argument to make: make(chan int, 20).

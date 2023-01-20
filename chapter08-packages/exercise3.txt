@@ -1,0 +1,1 @@
+A package alias is an alternative name for a package that you can specify when you import the package: import f "fmt".
